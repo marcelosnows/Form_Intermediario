@@ -38,7 +38,7 @@ Elaboração de um formulário para registro de MENTORIAS tendo como métrica a 
 
 # 🔖 Layout
 
-![preview](.gitHub/preview%20intermediate_form.png)
+![preview](.github/preview.png)
 
 
 Você pode visualizar o layout completo [clicando aqui](https://www.figma.com/file/Q40yxGTKrF88BM8bmobBTk/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
